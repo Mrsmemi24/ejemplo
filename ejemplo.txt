@@ -1,6 +1,12 @@
-hola como estas
+hola como estas 
 la mama de la mama
+yo bien
 
+<<<<<<< HEAD
 yo bien
 
 en main puse esto
+=======
+
+en la rama
+>>>>>>> ramon
