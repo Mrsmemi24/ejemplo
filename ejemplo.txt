@@ -1,4 +1,8 @@
 hola como estas
+<<<<<<< HEAD
 
+=======
+la mama de la mama
+>>>>>>> main
 
 yo bien
