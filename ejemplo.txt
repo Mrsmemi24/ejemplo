@@ -1,8 +1,6 @@
-hola como estas
-<<<<<<< HEAD
-
-=======
+hola como estas 
 la mama de la mama
->>>>>>> main
-
 yo bien
+
+
+en la rama
